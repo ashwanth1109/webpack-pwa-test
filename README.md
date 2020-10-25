@@ -68,3 +68,9 @@ module.exports = {
 ```
 
 - Run build
+
+## Setup PWA
+
+```shell script
+npm i -D workbox-webpack-plugin
+```
